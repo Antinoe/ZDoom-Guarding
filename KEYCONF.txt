@@ -1,0 +1,6 @@
+// Add Keys
+addKeySection "Guarding Mod" "DwellingSurvival"
+addMenuKey    "Guard"	"GuardKey"
+
+// Keys
+alias GuardKey "netevent GuardKeyEvent"
